@@ -1,0 +1,7 @@
+-rw-rw-r-- 1 kali kali 4002791 2018-06-19 13:58:24.000000000 -0400 android/Android_Logical/sdcard/DJI/dji.go.v4/FlightRecord/MCDatFlightRecords/18-06-19-02-47-38_FLY057.DAT
+-rw-rw-r-- 1 kali kali 1104150 2018-06-19 14:02:12.000000000 -0400 android/Android_Logical/sdcard/DJI/dji.go.v4/FlightRecord/MCDatFlightRecords/18-06-19-02-59-05_FLY058.DAT
+-rw-rw-r-- 1 kali kali 555776 2018-06-19 13:55:40.000000000 -0400 android/Android_Logical/sdcard/DJI/dji.go.v4/FlightRecord/DJIFlightRecord_2018-06-19_[14-50-34].txt
+-rw-rw-r-- 1 kali kali 8414 2018-06-19 12:12:38.000000000 -0400 android/Android_Logical/sdcard/Android/data/dji.go.v4/cache/uil-images/2cmsgpo3xyz7a5g8c2twm1zcj0
+-rw-rw-r-- 1 kali kali 523 2018-06-19 12:12:42.000000000 -0400 android/Android_Logical/sdcard/Android/data/dji.go.v4/cache/uil-images/journal
+-rw-rw-r-- 1 kali kali 666994 2018-06-19 12:12:42.000000000 -0400 android/Android_Logical/sdcard/Android/data/dji.go.v4/cache/uil-images/2ec8zc1rfdpe2wf7ownjl19c10
+-rw-rw-r-- 1 kali kali 19605 2018-06-19 12:12:40.000000000 -0400 android/Android_Logical/sdcard/Android/data/dji.go.v4/cache/uil-images/6bkm680zskvd7si9m75pippui0

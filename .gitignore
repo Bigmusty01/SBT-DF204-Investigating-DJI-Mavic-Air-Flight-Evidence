@@ -1,0 +1,13 @@
+*.zip
+*.E01
+*.dd
+*.img
+*.raw
+*.DAT
+*.mp4
+*.tlv
+*.map
+android/
+working/
+originals/
+mnt*/

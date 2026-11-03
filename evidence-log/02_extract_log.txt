@@ -1,0 +1,29 @@
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+ 64-bit locale=en_US.UTF-8 Threads:128 OPEN_MAX:4096, ASM
+
+Scanning the drive for archives:
+1 file, 413261824 bytes (395 MiB)
+
+Extracting archive: Android_Logical.zip
+
+ERRORS:
+Unexpected end of archive
+
+--
+Path = Android_Logical.zip
+Type = zip
+ERRORS:
+Unexpected end of archive
+Physical Size = 413261824
+Characteristics = Local
+
+ERROR: Data Error : Android_Logical/sdcard/Samsung/Music/Over the Horizon.mp3
+
+Sub items Errors: 1
+
+Archives with Errors: 1
+
+Open Errors: 1
+
+Sub items Errors: 1

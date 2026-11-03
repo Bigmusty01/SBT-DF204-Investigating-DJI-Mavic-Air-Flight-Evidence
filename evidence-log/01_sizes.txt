@@ -1,0 +1,2 @@
+total 403580
+-r--r--r-- 1 kali kali 413261824 2026-11-03 00:12:11.610060697 -0500 Android_Logical.zip

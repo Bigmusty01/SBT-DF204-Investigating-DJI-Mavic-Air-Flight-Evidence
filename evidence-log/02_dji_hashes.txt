@@ -1,0 +1,7 @@
+06130820a4a813bf21f7286150bd3c83084105fecc899bb4d8534895fa2df3a1  android/Android_Logical/sdcard/DJI/dji.go.v4/FlightRecord/MCDatFlightRecords/18-06-19-02-47-38_FLY057.DAT
+fdfccf0c5b1d90d189c19032bb34e151914f42fba42c7994d0492cf327ade07a  android/Android_Logical/sdcard/DJI/dji.go.v4/FlightRecord/MCDatFlightRecords/18-06-19-02-59-05_FLY058.DAT
+0a9f1816d52a98f840f6e67c08a14473ae5a0a2e75e9484d5de66368c4fd4c4a  android/Android_Logical/sdcard/DJI/dji.go.v4/FlightRecord/DJIFlightRecord_2018-06-19_[14-50-34].txt
+084c66e1b40f1728dc242b1ff63b854fbdfd9c9aef15ad7648c5d401f7610e2c  android/Android_Logical/sdcard/Android/data/dji.go.v4/cache/uil-images/2cmsgpo3xyz7a5g8c2twm1zcj0
+b6fd7c963b1f48f86fb128d6ababc8ed9d49d136bcfee90c14e64276cebcfa67  android/Android_Logical/sdcard/Android/data/dji.go.v4/cache/uil-images/journal
+e8c47a7bbebc7e292b4ad1579356c374f5418ad6a586ce235b681fe5a9bfc694  android/Android_Logical/sdcard/Android/data/dji.go.v4/cache/uil-images/2ec8zc1rfdpe2wf7ownjl19c10
+850c4e407a0dffc60c33714b0389bdc0bdf7a4197920f5e7d1c35f74bc84c79e  android/Android_Logical/sdcard/Android/data/dji.go.v4/cache/uil-images/6bkm680zskvd7si9m75pippui0

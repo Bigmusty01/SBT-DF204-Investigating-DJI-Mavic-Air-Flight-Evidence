@@ -1,0 +1,18 @@
+[System]        FileModifyDate                  : 2018:06:19 12:12:42-04:00
+[System]        FileAccessDate                  : 2026:11:03 03:48:31-05:00
+[System]        FileInodeChangeDate             : 2026:11:03 03:45:53-05:00
+[IFD0]          Software                        : Adobe Photoshop CC 2017 (Windows)
+[IFD0]          ModifyDate                      : 2018:05:17 20:07:45
+[XMP-xmpMM]     HistorySoftwareAgent            : Adobe Photoshop CC 2017 (Windows), Adobe Photoshop CC 2017 (Windows)
+[XMP-xmp]       CreateDate                      : 2018:05:17 19:57:18+08:00
+[XMP-xmp]       ModifyDate                      : 2018:05:17 20:07:45+08:00
+[XMP-xmp]       MetadataDate                    : 2018:05:17 20:07:45+08:00
+[System]        FileModifyDate                  : 2018:06:19 12:12:40-04:00
+[System]        FileAccessDate                  : 2026:11:03 03:48:31-05:00
+[System]        FileInodeChangeDate             : 2026:11:03 03:45:53-05:00
+[IFD0]          Software                        : Adobe Photoshop CC 2014 (Windows)
+[IFD0]          ModifyDate                      : 2016:02:26 16:25:05
+[XMP-xmp]       CreateDate                      : 2016:02:26 16:25:05+08:00
+[XMP-xmp]       MetadataDate                    : 2016:02:26 16:25:05+08:00
+[XMP-xmp]       ModifyDate                      : 2016:02:26 16:25:05+08:00
+[XMP-xmpMM]     HistorySoftwareAgent            : Adobe Photoshop CC 2014 (Windows), Adobe Photoshop CC 2014 (Windows)
